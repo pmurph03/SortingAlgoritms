@@ -18,7 +18,6 @@
                         swappedInts = true;
                     }
                 }
-                
                 if (!swappedInts)
                 {
                     break;

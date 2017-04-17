@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace SortingExamples
 {
     class IntegerConsolePrinter
